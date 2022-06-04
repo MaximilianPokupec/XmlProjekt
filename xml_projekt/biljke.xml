@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mojebiljke>
+    <biljka category="z">
+        <zacin id="1">
+            <naziv>Menta</naziv>
+        </zacin>
+        <zacin id="2">
+            <naziv>Bosiljak</naziv>
+        </zacin>
+        <zacin id="3">
+            <naziv>Ruzmarin</naziv>
+        </zacin>
+    </biljka>
+
+    <biljka category="u">
+        <ukras id="1">
+            <naziv>Palma</naziv>
+            <opis>Visoka palma</opis>
+        </ukras>
+        <ukras id="2">
+            <naziv>Bonsai</naziv>
+            <opis>Bonsai stablo</opis>
+        </ukras>
+        <ukras id="3">
+            <naziv>Ruze</naziv>
+            <opis>Grm ruza</opis>
+        </ukras>
+    </biljka>
+</mojebiljke>
